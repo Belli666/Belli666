@@ -1,4 +1,4 @@
-<img width="1109" height="1168" alt="image" src="https://github.com/user-attachments/assets/04b1e0c2-81ae-4ef9-b284-7a841ec23687" /># 💫 About Me:
+# 💫 About Me:
 - 🔭 **I'm currently working on:** Multi-model AI assistants, local LLM inference pipelines, and fullstack web/bot automation
 - 👯 **I'm looking to collaborate on:** Open-source AI tooling, LLM orchestration, and real-time web applications
 - 🤝 **I'm looking for help with:** Scaling production AI systems and distributed backend architectures
@@ -12,6 +12,7 @@
 
 ## 🚀 Featured Projects:
 - **[mk](https://github.com)** — Modular multi-model AI Telegram assistant with speech processing and LLM orchestration (`TypeScript`, `Python`).
+- **[Soup Take-Home](https://github.com)** — Local LLM inference and task automation pipeline utilizing Qwen3 8B with 8-bit quantization (`Python`, `LLMs`).
 - **[LocalDoc](https://github.com)** — Free, 100% offline alternative to Adobe & online PDF converters in a single portable `.exe` (`GPL-3.0`).
 - **[Meteobot](https://github.com)** — Automated meteorological data parser and Telegram delivery bot (`Python`).
 
