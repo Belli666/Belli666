@@ -7,7 +7,7 @@
 - ⚡ **Fun fact:** Maintained meteorological forecasting systems (WRF-ARW, ICON, GIS Meteo) at Kyrgyzhydromet for a year
 
 ## 🌐 Socials:
-[![Telegram](https://shields.io)](https://t.me/@Belli666)
+[![Telegram](https://shields.io)](https://t.me/Belli666)
 [![Email](https://shields.io)](mailto:bekbaiel@gmail.com)
 
 ## 🚀 Featured Projects:
